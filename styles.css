@@ -1,0 +1,44 @@
+body {
+  background-color:whitesmoke;
+}
+
+h1 {
+  font-family:arial;
+  text-align:center;
+  color:white;
+  background-color:black;
+  padding:20px;
+  margin:0px;
+}
+
+h2 {
+  font-family:arial;
+  text-align:left;
+  color:white;
+  background-color:black;
+  margin:20px;
+  margin-bottom:0px;
+  padding:15px;
+}
+
+p {
+  font-family:arial;
+  text-align:left;
+  color:black;
+  background-color:white;
+  margin:20px;
+  margin-top:0px;
+  padding:30px;
+}
+
+a:link, a:visited {
+  color:deepskyblue;
+  background-color:transparent;
+  text-decoration:none;
+}
+
+a:hover, a:active {
+  color:deepskyblue;
+  background-color:transparent;
+  text-decoration:underline;
+}
