@@ -21,6 +21,19 @@ h2 {
   padding:15px;
 }
 
+h3 {
+  font-family:arial;
+  text-align:left;
+  color:black;
+  background-color:white;
+  margin:20px;
+  margin-top:0px;
+  margin-bottom:0px;
+  padding:30px;
+  padding-top:0px;
+  padding-bottom:0px;
+}
+
 p {
   font-family:arial;
   text-align:left;
@@ -28,6 +41,7 @@ p {
   background-color:white;
   margin:20px;
   margin-top:0px;
+  margin-bottom:0px;
   padding:30px;
 }
 
